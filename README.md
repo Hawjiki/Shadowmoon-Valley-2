@@ -24,3 +24,6 @@ Credits & Programs Used:
 - WoW.export
 - Noggit Red
 - Various different guides for retroporting
+
+Download: https://mega.nz/file/aXBhkKZL#El4XcG9p9VoV4sv_94Nd6g_n-1PKujWcqccr97DI8hc
+Teleport Cords: -99.1074 -1005.89 57 1400
