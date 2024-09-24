@@ -1,6 +1,8 @@
 # Shadowmoon-Valley-2
  Shadowmoon Valley 2 project
 
+![Loading_Screen_Shadowmoon](https://github.com/user-attachments/assets/71fd7a6c-d656-457b-b449-a8e7498ca488)
+
  Contains
 - Custom Map of WoD's Shadowmoon Valley
 - Most Doodads ported and working
@@ -14,7 +16,6 @@ Issues
 - No Graveyards
 - No Ground Effects
 - A few missing Doodads
-- No Loading Screen
 - World Map
 - No Mini-map
 - Some tarrain blending issues
